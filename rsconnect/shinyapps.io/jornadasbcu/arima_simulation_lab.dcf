@@ -1,0 +1,10 @@
+name: arima_simulation_lab
+title:
+username: jornadasbcu
+account: jornadasbcu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15808754
+bundleId:
+url: https://jornadasbcu.shinyapps.io/arima_simulation_lab/
+version: 1
