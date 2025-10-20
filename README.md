@@ -5,7 +5,7 @@ Esta aplicación es un piloto diseñado para acompañar el curso de **Econometr�
 
 Su objetivo es ofrecer un entorno interactivo para experimentar con la simulación, identificación y evaluación de modelos ARMA/SARMA y la generación de predicciones bajo diferentes funciones de pérdida."
 
-## ¿Qué podés hacer acá?"
+## ¿Qué podés hacer acá?
 **Simular modelos:**
 Elegí órdenes, coeficientes y varianza; observá la serie, su ACF/PACF y comprobá estacionariedad e invertibilidad vía raíces del polinomio.
 
@@ -15,6 +15,7 @@ Genera una serie oculta (por niveles de dificultad), proponé órdenes y compar�
 **Proyectar:**
 Construí pronósticos multi-paso y compará la media condicional (pérdida cuadrática), con la predicción óptima bajo _LINEX_ (elegí el parámetro a)
 
+**Versión web disponible <a href="http://tisnesesteban.shinyapps.io/arima_simulation_lab">aquí</a>**   
 
 _Versión piloto — comentarios y mejoras bienvenidos_
 
